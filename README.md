@@ -7,7 +7,7 @@ This project aims to predict customer churn in the telecom industry using Logist
 - Source: Telecom customer dataset
 - Size: 233,553 rows, 14 columns
 
-- # Key Features:
+- ## Key Features:
 - Customer demographic details
 - Usage patterns
 - Subscription details
@@ -15,14 +15,44 @@ This project aims to predict customer churn in the telecom industry using Logist
 
 ## Technologies Used
 
-Programming Language: Python
+- Programming Language: Python
 
-IDE: Jupyter Notebook
+- IDE: Jupyter Notebook
 
 Libraries:
 
-pandas, numpy (Data Processing)
+   - pandas, numpy (Data Processing)
 
-matplotlib, seaborn (Data Visualization)
+   - matplotlib, seaborn (Data Visualization)
 
-sklearn (Machine Learning Model)
+   - sklearn (Machine Learning Model)
+
+## Installation & Setup
+Install required dependencies:
+pip install -r requirements.txt
+Open Jupyter Notebook:
+Run Churn_prediction.ipynb
+
+## Project Workflow
+
+- Data Loading: Import dataset and check structure.
+
+- Data Cleaning: Handle missing values and outliers.
+
+- Exploratory Data Analysis (EDA):
+
+- Data distribution visualization
+
+- Correlation analysis using heatmaps
+
+- Feature Engineering: Selecting important features.
+
+- Model Training: Implement Logistic Regression model.
+
+- ##Model Evaluation:
+
+- Accuracy, Precision, Recall, and F1-score.
+
+- Confusion Matrix analysis.
+
+- Predictions & Insights: Understanding customer churn trends.
