@@ -7,7 +7,7 @@ This project aims to predict customer churn in the telecom industry using Logist
 - Source: Telecom customer dataset
 - Size: 233,553 rows, 14 columns
 
-- Key Features:
+- # Key Features:#
 - Customer demographic details
 - Usage patterns
 - Subscription details
