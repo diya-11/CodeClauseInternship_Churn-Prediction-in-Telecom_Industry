@@ -37,7 +37,7 @@ Run Churn_prediction.ipynb
 
 - Data Loading: Import dataset and check structure.
 
-- Data Cleaning: Handle missing values and outliers.
+- ## Data Cleaning: Handle missing values and outliers.
 
 - Exploratory Data Analysis (EDA):
 
@@ -49,10 +49,26 @@ Run Churn_prediction.ipynb
 
 - Model Training: Implement Logistic Regression model.
 
-- ##Model Evaluation:
+- ## Model Evaluation:
 
 - Accuracy, Precision, Recall, and F1-score.
 
 - Confusion Matrix analysis.
 
 - Predictions & Insights: Understanding customer churn trends.
+
+## Results & Insights
+
+- Identified key factors influencing customer churn.
+
+- Logistic Regression provided interpretable insights on churn probability.
+
+- Recommendations for reducing churn based on findings.
+
+## Future Improvements
+
+Experiment with advanced models (Random Forest, XGBoost, Neural Networks).
+
+Implement real-time churn prediction system.
+
+Improve feature selection with domain expertise.
